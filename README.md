@@ -4,8 +4,6 @@ Sydney renter suburb-matching that starts with *who you are*, not what you can a
 
 Most rent tools ask you to pick a suburb and sort by price. Orbit inverts that: answer a 7-question personality quiz, and the whole Sydney metro colours from red (poor fit) through grey (neutral) to green (your kind of place). Budget is a soft gate, not a filter — aspirational suburbs stay visible, they just rank lower.
 
-Built as a solo-dev submission for Data-Hack 2026.
-
 Deployed Link: https://orbitsydney.com
 
 Video Submission: https://www.youtube.com/watch?v=xfkiu5u4d8g&t=2s
